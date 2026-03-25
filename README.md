@@ -1,2 +1,3 @@
-# Cacli
+# Calculator
+
 A basic working calculator
